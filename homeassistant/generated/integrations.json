@@ -855,6 +855,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "categorised_shopping_list": {
+      "name": "Categorised Shopping List",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "ccm15": {
       "name": "Midea ccm15 AC Controller",
       "integration_type": "hub",

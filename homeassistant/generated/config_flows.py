@@ -101,6 +101,7 @@ FLOWS = {
         "caldav",
         "canary",
         "cast",
+        "categorised_shopping_list",
         "ccm15",
         "cert_expiry",
         "chacon_dio",

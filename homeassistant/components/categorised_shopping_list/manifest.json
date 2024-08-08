@@ -1,0 +1,9 @@
+{
+  "domain": "categorised_shopping_list",
+  "name": "Categorised Shopping List",
+  "codeowners": ["@TheSimoms"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/categorised_shopping_list",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/TheSimoms/categorised-shopping-list/issues"
+}

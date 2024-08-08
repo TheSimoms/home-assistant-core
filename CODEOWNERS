@@ -240,6 +240,8 @@ build.json @home-assistant/supervisor
 /tests/components/camera/ @home-assistant/core
 /homeassistant/components/cast/ @emontnemery
 /tests/components/cast/ @emontnemery
+/homeassistant/components/categorised_shopping_list/ @TheSimoms
+/tests/components/categorised_shopping_list/ @TheSimoms
 /homeassistant/components/ccm15/ @ocalvo
 /tests/components/ccm15/ @ocalvo
 /homeassistant/components/cert_expiry/ @jjlawren
